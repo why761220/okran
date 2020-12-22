@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="attach:jar">
+    <output-path>$PROJECT_DIR$/../okran</output-path>
+    <root id="archive" name="attach.jar">
+      <element id="module-output" name="attach" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/fastjson-1.2.75.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/javassist.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Program Files/Java/jdk1.8.0_261/lib/tools.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
